@@ -1,0 +1,48 @@
+Client Info
+
+User Agent : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+Remote Address : 106.51.232.61
+
+Server Info
+
+Host : 84.200.53.77
+PHP Version : 5.5.9-1ubuntu4.11
+Server : Apache/2.4.7 (Ubuntu)
+Admin : webmaster@localhost
+
+Document Root : /var/www/html
+ROOT_PATH : /var/www/html
+
+OrangeHRM Installation Log
+
+Tue, 21 Jul 2015 00:15:31 -0400 DB Creation - Starting
+Tue, 21 Jul 2015 00:15:31 -0400 DB Creation - Done
+Tue, 21 Jul 2015 00:15:31 -0400 DB Creation - No Errors
+Tue, 21 Jul 2015 00:15:34 -0400 Fill Data Phase 1 - Starting
+Tue, 21 Jul 2015 00:15:34 -0400 Fill Data Phase 1 - Connected to the DB Server
+Tue, 21 Jul 2015 00:15:34 -0400 Fill Data Phase 1 - Selected the DB
+Tue, 21 Jul 2015 00:15:34 -0400 Fill Data Phase 1 - Reading DB Script
+Tue, 21 Jul 2015 00:15:34 -0400 Fill Data Phase 1 - Opened DB Script
+Tue, 21 Jul 2015 00:15:34 -0400 Fill Data Phase 1 - Read DB script
+Tue, 21 Jul 2015 00:15:34 -0400 Fill Data Phase 1 - There are 284 Statements in the DB script
+Tue, 21 Jul 2015 00:15:38 -0400 Fill Data Phase 1 - Done
+Tue, 21 Jul 2015 00:15:38 -0400 Fill Data Phase 1 - No Errors
+Tue, 21 Jul 2015 00:15:41 -0400 Fill Data Phase 2 - Starting
+Tue, 21 Jul 2015 00:15:41 -0400 Fill Data Phase 2 - Connected to the DB Server
+Tue, 21 Jul 2015 00:15:41 -0400 Fill Data Phase 2 - Selected the DB
+Tue, 21 Jul 2015 00:15:41 -0400 Fill Data Phase 2 - Reading DB Script
+Tue, 21 Jul 2015 00:15:41 -0400 Fill Data Phase 2 - Opened DB Script
+Tue, 21 Jul 2015 00:15:41 -0400 Fill Data Phase 2 - Read DB script
+Tue, 21 Jul 2015 00:15:41 -0400 Fill Data Phase 2 - There are 127 Statements in the DB script
+Tue, 21 Jul 2015 00:15:41 -0400 Fill Data Phase 1 - Connected to the DB Server
+Tue, 21 Jul 2015 00:15:41 -0400 Fill Data Phase 2 - Done
+Tue, 21 Jul 2015 00:15:41 -0400 Fill Data Phase 2 - No Errors
+Tue, 21 Jul 2015 00:15:44 -0400 Create DB user - Starting
+Tue, 21 Jul 2015 00:15:44 -0400 Create DB user - Done
+Tue, 21 Jul 2015 00:15:44 -0400 Create DB user - No Errors
+Tue, 21 Jul 2015 00:15:47 -0400 Create OrangeHRM user - Starting
+Tue, 21 Jul 2015 00:15:47 -0400 Create OrangeHRM user - Done
+Tue, 21 Jul 2015 00:15:47 -0400 Create OrangeHRM user - No Errors
+Tue, 21 Jul 2015 00:15:50 -0400 Write Conf - Starting
+Tue, 21 Jul 2015 00:15:50 -0400 Write Conf - Done
+Tue, 21 Jul 2015 00:15:50 -0400 Write Conf - No Errors
