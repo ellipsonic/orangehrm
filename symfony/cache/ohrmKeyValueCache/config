@@ -16,7 +16,7 @@ return array (
   'beacon.lock' => 'unlocked',
   'beacon.next_flash_time' => '0000-00-00',
   'beacon.uuid' => '0',
-  'csrf_secret' => 'kj33461h82sni13t52rek0rrrtp15qdo6q828n5cv68t1vlmj83',
+  'csrf_secret' => 'uaoeb413f8n0vbjnnfqpv5ijku1djjd3g71gc11f7767upp14b1rolime',
   'domain.name' => 'localhost',
   'hsp_accrued_last_updated' => '0000-00-00',
   'hsp_current_plan' => '0',
